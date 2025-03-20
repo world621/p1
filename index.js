@@ -1,1 +1,1 @@
-this is p
+export const p = "this is p";
