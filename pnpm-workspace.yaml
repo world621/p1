@@ -1,0 +1,2 @@
+packages:
+  - "packages/*" # 指定子包路径
